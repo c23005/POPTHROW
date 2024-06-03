@@ -22,6 +22,11 @@
 * [ジャイロ操作](https://github.com/c23005/POPTHROW/blob/master/ProjectData/POPTHROW/Assets/ScriptsFolder/CameraGyroScript.cs)
 * [カメラの追従](https://github.com/c23005/POPTHROW/blob/master/ProjectData/POPTHROW/Assets/ScriptsFolder/CameraScript.cs)
 
+## ゲームルール
+
+ジャイロで操作で炭酸を振って力をためて、タップで炭酸を発射して、ゴールのごみ箱の中に入れるゲーム。
+コースは4つあり、4つのステージをプレイするとリザルト画面に行き、それぞれのコースで炭酸を飛ばした数と4ステージの合計の点数が出る。
+
 ## Unityバージョン
 
 Unity 2022.3.7f1
