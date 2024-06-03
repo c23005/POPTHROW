@@ -40,3 +40,6 @@ Unity 2022.3.7f1
 ![タイトル](https://github.com/c23005/POPTHROW/blob/master/ScreenShot/TitleScene.png)
 ![タイトル](https://github.com/c23005/POPTHROW/blob/master/ScreenShot/Arrow.png)
 ![タイトル](https://github.com/c23005/POPTHROW/blob/master/ScreenShot/Fly.png)
+<img src="https://github.com/c23005/POPTHROW/blob/master/ScreenShot/TitleScene.png" width="480px">
+<img src="https://github.com/c23005/POPTHROW/blob/master/ScreenShot/Arrow.png" width="480px">
+<img src="https://github.com/c23005/POPTHROW/blob/master/ScreenShot/Fly.png" width="480px">
