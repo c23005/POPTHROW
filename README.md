@@ -37,4 +37,4 @@ Unity 2022.3.7f1
 
 ## ゲームスクリーンショット
 
-![タイトル](https://github.com/c23005/POPTHROW/blob/master/ScreenShot/TitleScene.png)
+<img width = "400" alt="" scr="https://github.com/c23005/POPTHROW/blob/master/ScreenShot/TitleScene.png">
