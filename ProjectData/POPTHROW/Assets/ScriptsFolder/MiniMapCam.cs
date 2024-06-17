@@ -35,7 +35,7 @@ public class MiniMapCam : MonoBehaviour
 
         transform.rotation = Mini[miniNum].transform.rotation * Quaternion.Euler(0, 0, 180);
     }
-
+    //ミニマップに表示されるオブジェクトを変える
     public void MiniChenge()
     {
         if(miniNum == 0)
